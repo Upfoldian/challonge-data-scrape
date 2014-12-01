@@ -1,0 +1,1161 @@
+{
+	"events": [
+		{
+			"eventName": "Smash City 2 - 3DS Pro Bracket",
+			"eventType": "double elimination",
+			"startDate": "2014-11-23T07:35:35+02:00",
+			"entrants": [
+				"Gords",
+				"Luco",
+				"M",
+				"Patv",
+				"Shaya",
+				"Zero",
+				"Zorsy",
+				"Zxv"
+			],
+			"results": [
+				{
+					"winner": "Luco",
+					"loser": "Zorsy",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Zxv",
+					"loser": "Patv",
+					"winnerScore": "2",
+					"loserScore": "1"
+				},
+				{
+					"winner": "Shaya",
+					"loser": "Gords",
+					"winnerScore": "2",
+					"loserScore": "1"
+				},
+				{
+					"winner": "M",
+					"loser": "Zero",
+					"winnerScore": "2",
+					"loserScore": "1"
+				},
+				{
+					"winner": "Luco",
+					"loser": "Zxv",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Shaya",
+					"loser": "M",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Luco",
+					"loser": "Shaya",
+					"winnerScore": "3",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Patv",
+					"loser": "Zorsy",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Zero",
+					"loser": "Gords",
+					"winnerScore": "2",
+					"loserScore": "1"
+				},
+				{
+					"winner": "M",
+					"loser": "Patv",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Zero",
+					"loser": "Zxv",
+					"winnerScore": "2",
+					"loserScore": "1"
+				},
+				{
+					"winner": "Zero",
+					"loser": "M",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Zero",
+					"loser": "Shaya",
+					"winnerScore": "3",
+					"loserScore": "2"
+				},
+				{
+					"winner": "Luco",
+					"loser": "Zero",
+					"winnerScore": "3",
+					"loserScore": "0"
+				}
+			],
+			"eventURL": "http://sydneysmash.challonge.com/sc23ds"
+		},
+		{
+			"eventName": "Smash City 2 - 3DS Singles",
+			"eventType": "swiss",
+			"startDate": "2014-11-23T02:17:44+02:00",
+			"entrants": [
+				"Alistair",
+				"Ariel",
+				"Birdies",
+				"Bjay",
+				"BlessedMilk",
+				"Dan",
+				"EVAL",
+				"Enn",
+				"Fontana",
+				"Gords",
+				"Invisi",
+				"Jimmy",
+				"Jvar",
+				"Kacemono",
+				"Kasuporo",
+				"Keiz",
+				"Kirby",
+				"Luco",
+				"M",
+				"Neo",
+				"PBoy",
+				"Patv",
+				"Paul",
+				"Sam",
+				"Shaya",
+				"Skye",
+				"Star",
+				"Strawhat",
+				"Vanish",
+				"Vav",
+				"Vincent Tenia",
+				"Vinyl",
+				"Wvz",
+				"Yam",
+				"Zedi",
+				"Zero",
+				"Zorsy",
+				"Zxv"
+			],
+			"results": [
+				{
+					"winner": "M",
+					"loser": "Enn",
+					"winnerScore": "2",
+					"loserScore": "1"
+				},
+				{
+					"winner": "Zxv",
+					"loser": "Vinyl",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "EVAL",
+					"loser": "Vav",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Gords",
+					"loser": "Dan",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Zero",
+					"loser": "Yam",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Invisi",
+					"loser": "Kirby",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Vanish",
+					"loser": "BlessedMilk",
+					"winnerScore": "2",
+					"loserScore": "1"
+				},
+				{
+					"winner": "Jvar",
+					"loser": "Strawhat",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Fontana",
+					"loser": "Neo",
+					"winnerScore": "2",
+					"loserScore": "1"
+				},
+				{
+					"winner": "Patv",
+					"loser": "Kacemono",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Luco",
+					"loser": "Zorsy",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Zedi",
+					"loser": "Birdies",
+					"winnerScore": "2",
+					"loserScore": "1"
+				},
+				{
+					"winner": "Paul",
+					"loser": "Wvz",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Kasuporo",
+					"loser": "Vincent Tenia",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Ariel",
+					"loser": "Jimmy",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Sam",
+					"loser": "Skye",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Star",
+					"loser": "Alistair",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Bjay",
+					"loser": "Keiz",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Star",
+					"loser": "Neo",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "BlessedMilk",
+					"loser": "Kacemono",
+					"winnerScore": "2",
+					"loserScore": "1"
+				},
+				{
+					"winner": "Wvz",
+					"loser": "Strawhat",
+					"winnerScore": "2",
+					"loserScore": "1"
+				},
+				{
+					"winner": "Zorsy",
+					"loser": "Alistair",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Birdies",
+					"loser": "Enn",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Vincent Tenia",
+					"loser": "Vinyl",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Vav",
+					"loser": "Jimmy",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Skye",
+					"loser": "Dan",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Shaya",
+					"loser": "Yam",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Vanish",
+					"loser": "Paul",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Zero",
+					"loser": "PBoy",
+					"winnerScore": "2",
+					"loserScore": "1"
+				},
+				{
+					"winner": "Gords",
+					"loser": "Zedi",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Luco",
+					"loser": "EVAL",
+					"winnerScore": "2",
+					"loserScore": "1"
+				},
+				{
+					"winner": "M",
+					"loser": "Jvar",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Patv",
+					"loser": "Kasuporo",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Bjay",
+					"loser": "Fontana",
+					"winnerScore": "2",
+					"loserScore": "1"
+				},
+				{
+					"winner": "Invisi",
+					"loser": "Sam",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Zxv",
+					"loser": "Ariel",
+					"winnerScore": "2",
+					"loserScore": "1"
+				},
+				{
+					"winner": "Shaya",
+					"loser": "Wvz",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Zedi",
+					"loser": "Vincent Tenia",
+					"winnerScore": "2",
+					"loserScore": "1"
+				},
+				{
+					"winner": "Jvar",
+					"loser": "BlessedMilk",
+					"winnerScore": "2",
+					"loserScore": "1"
+				},
+				{
+					"winner": "Sam",
+					"loser": "Paul",
+					"winnerScore": "2",
+					"loserScore": "1"
+				},
+				{
+					"winner": "Ariel",
+					"loser": "Kasuporo",
+					"winnerScore": "1",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Zorsy",
+					"loser": "Vav",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Skye",
+					"loser": "Kirby",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Enn",
+					"loser": "Strawhat",
+					"winnerScore": "2",
+					"loserScore": "1"
+				},
+				{
+					"winner": "Kacemono",
+					"loser": "Dan",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Yam",
+					"loser": "Alistair",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Keiz",
+					"loser": "Vinyl",
+					"winnerScore": "2",
+					"loserScore": "1"
+				},
+				{
+					"winner": "Birdies",
+					"loser": "Fontana",
+					"winnerScore": "2",
+					"loserScore": "1"
+				},
+				{
+					"winner": "EVAL",
+					"loser": "PBoy",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Zxv",
+					"loser": "Vanish",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "M",
+					"loser": "Star",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Patv",
+					"loser": "Invisi",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Zero",
+					"loser": "Bjay",
+					"winnerScore": "2",
+					"loserScore": "1"
+				},
+				{
+					"winner": "Luco",
+					"loser": "Gords",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Enn",
+					"loser": "BlessedMilk",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Shaya",
+					"loser": "Fontana",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Paul",
+					"loser": "PBoy",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Kacemono",
+					"loser": "Kasuporo",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Wvz",
+					"loser": "Vav",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Yam",
+					"loser": "Vincent Tenia",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Neo",
+					"loser": "Keiz",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Strawhat",
+					"loser": "Kirby",
+					"winnerScore": "2",
+					"loserScore": "1"
+				},
+				{
+					"winner": "Vinyl",
+					"loser": "Alistair",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Dan",
+					"loser": "Jimmy",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Skye",
+					"loser": "Vanish",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Sam",
+					"loser": "Star",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Zorsy",
+					"loser": "Zedi",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Ariel",
+					"loser": "Invisi",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Gords",
+					"loser": "Jvar",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Birdies",
+					"loser": "EVAL",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Patv",
+					"loser": "Bjay",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Zxv",
+					"loser": "Zero",
+					"winnerScore": "2",
+					"loserScore": "1"
+				},
+				{
+					"winner": "Luco",
+					"loser": "M",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Star",
+					"loser": "Jvar",
+					"winnerScore": "2",
+					"loserScore": "1"
+				},
+				{
+					"winner": "Vanish",
+					"loser": "Yam",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Zedi",
+					"loser": "Neo",
+					"winnerScore": "2",
+					"loserScore": "1"
+				},
+				{
+					"winner": "Fontana",
+					"loser": "Wvz",
+					"winnerScore": "2",
+					"loserScore": "1"
+				},
+				{
+					"winner": "Invisi",
+					"loser": "Kacemono",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "BlessedMilk",
+					"loser": "Strawhat",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Kasuporo",
+					"loser": "Vinyl",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "PBoy",
+					"loser": "Vincent Tenia",
+					"winnerScore": "2",
+					"loserScore": "1"
+				},
+				{
+					"winner": "Kirby",
+					"loser": "Dan",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Vav",
+					"loser": "Keiz",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "EVAL",
+					"loser": "Paul",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Bjay",
+					"loser": "Enn",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Zorsy",
+					"loser": "Ariel",
+					"winnerScore": "2",
+					"loserScore": "1"
+				},
+				{
+					"winner": "Gords",
+					"loser": "Skye",
+					"winnerScore": "2",
+					"loserScore": "1"
+				},
+				{
+					"winner": "Shaya",
+					"loser": "Sam",
+					"winnerScore": "2",
+					"loserScore": "1"
+				},
+				{
+					"winner": "M",
+					"loser": "Birdies",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Zero",
+					"loser": "Patv",
+					"winnerScore": "2",
+					"loserScore": "1"
+				},
+				{
+					"winner": "Luco",
+					"loser": "Zxv",
+					"winnerScore": "2",
+					"loserScore": "0"
+				}
+			],
+			"eventURL": "http://sydneysmash.challonge.com/sc2s4"
+		},
+		{
+			"eventName": "Smash Gym 3 - 3DS Singles",
+			"eventType": "swiss",
+			"startDate": "2014-11-16T03:53:59+02:00",
+			"entrants": [
+				"A-paiin",
+				"EVAL",
+				"Gords",
+				"Maple",
+				"Neo",
+				"Patv",
+				"RuKus",
+				"Shaya",
+				"Wvz",
+				"flex"
+			],
+			"results": [
+				{
+					"winner": "EVAL",
+					"loser": "Maple",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Neo",
+					"loser": "Gords",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Shaya",
+					"loser": "flex",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Wvz",
+					"loser": "RuKus",
+					"winnerScore": "2",
+					"loserScore": "1"
+				},
+				{
+					"winner": "Patv",
+					"loser": "A-paiin",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Neo",
+					"loser": "RuKus",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Gords",
+					"loser": "flex",
+					"winnerScore": "2",
+					"loserScore": "1"
+				},
+				{
+					"winner": "A-paiin",
+					"loser": "Maple",
+					"winnerScore": "2",
+					"loserScore": "1"
+				},
+				{
+					"winner": "Shaya",
+					"loser": "Patv",
+					"winnerScore": "2",
+					"loserScore": "1"
+				},
+				{
+					"winner": "EVAL",
+					"loser": "Wvz",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Gords",
+					"loser": "A-paiin",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Wvz",
+					"loser": "Maple",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "flex",
+					"loser": "RuKus",
+					"winnerScore": "2",
+					"loserScore": "1"
+				},
+				{
+					"winner": "Patv",
+					"loser": "Neo",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Shaya",
+					"loser": "EVAL",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Gords",
+					"loser": "Wvz",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Patv",
+					"loser": "EVAL",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Shaya",
+					"loser": "Neo",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "flex",
+					"loser": "A-paiin",
+					"winnerScore": "2",
+					"loserScore": "0"
+				},
+				{
+					"winner": "RuKus",
+					"loser": "Maple",
+					"winnerScore": "2",
+					"loserScore": "1"
+				}
+			],
+			"eventURL": "http://sydneysmash.challonge.com/smashgym3singles"
+		},
+		{
+			"eventName": "Smash Gym 2 - 3DS Singles",
+			"eventType": "double elimination",
+			"startDate": "",
+			"entrants": [
+				"M",
+				"Flex",
+				"Wvz",
+				"EVAL",
+				"Unreon",
+				"Retro",
+				"Zxv",
+				"Yam",
+				"Cole",
+				"Ultan",
+				"Gords",
+				"SleepingEggs",
+				"Star",
+				"Seb"
+			],
+			"results": [
+				{
+					"winner": "Wvz",
+					"loser": "Flex",
+					"winnerScore": "1",
+					"loserScore": "0"
+				},
+				{
+					"winner": "EVAL",
+					"loser": "Unreon",
+					"winnerScore": "1",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Zxv",
+					"loser": "Yam",
+					"winnerScore": "1",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Cole",
+					"loser": "Ultan",
+					"winnerScore": "1",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Gords",
+					"loser": "SleepingEggs",
+					"winnerScore": "1",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Seb",
+					"loser": "Star",
+					"winnerScore": "1",
+					"loserScore": "0"
+				},
+				{
+					"winner": "M",
+					"loser": "Wvz",
+					"winnerScore": "1",
+					"loserScore": "0"
+				},
+				{
+					"winner": "EVAL",
+					"loser": "Retro",
+					"winnerScore": "1",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Zxv",
+					"loser": "Cole",
+					"winnerScore": "1",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Seb",
+					"loser": "Gords",
+					"winnerScore": "1",
+					"loserScore": "0"
+				},
+				{
+					"winner": "M",
+					"loser": "EVAL",
+					"winnerScore": "1",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Zxv",
+					"loser": "Seb",
+					"winnerScore": "1",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Zxv",
+					"loser": "M",
+					"winnerScore": "1",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Ultan",
+					"loser": "Yam",
+					"winnerScore": "1",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Star",
+					"loser": "SleepingEggs",
+					"winnerScore": "1",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Flex",
+					"loser": "Cole",
+					"winnerScore": "1",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Gords",
+					"loser": "Unreon",
+					"winnerScore": "1",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Wvz",
+					"loser": "Ultan",
+					"winnerScore": "1",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Star",
+					"loser": "Retro",
+					"winnerScore": "1",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Flex",
+					"loser": "Gords",
+					"winnerScore": "1",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Star",
+					"loser": "Wvz",
+					"winnerScore": "1",
+					"loserScore": "0"
+				},
+				{
+					"winner": "EVAL",
+					"loser": "Flex",
+					"winnerScore": "1",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Star",
+					"loser": "Seb",
+					"winnerScore": "1",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Star",
+					"loser": "EVAL",
+					"winnerScore": "1",
+					"loserScore": "0"
+				},
+				{
+					"winner": "M",
+					"loser": "Star",
+					"winnerScore": "1",
+					"loserScore": "0"
+				},
+				{
+					"winner": "M",
+					"loser": "Zxv",
+					"winnerScore": "1",
+					"loserScore": "0"
+				}
+			],
+			"eventURL": ""
+		},
+		{
+			"eventName": "Smash Gym 1 - 3DS Singles",
+			"eventType": "double elimination",
+			"startDate": "",
+			"entrants": [
+				"Cole",
+				"EVAL",
+				"Gords",
+				"Kait",
+				"LNZ",
+				"M",
+				"Neo",
+				"William",
+				"Wvz",
+				"Zxv",
+				"jinchigo"
+			],
+			"results": [
+				{
+					"winner": "Neo",
+					"loser": "Kait",
+					"winnerScore": "1",
+					"loserScore": "0"
+				},
+				{
+					"winner": "LNZ",
+					"loser": "jinchigo",
+					"winnerScore": "1",
+					"loserScore": "0"
+				},
+				{
+					"winner": "M",
+					"loser": "William",
+					"winnerScore": "1",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Gords",
+					"loser": "Neo",
+					"winnerScore": "1",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Zxv",
+					"loser": "Wvz",
+					"winnerScore": "1",
+					"loserScore": "0"
+				},
+				{
+					"winner": "EVAL",
+					"loser": "LNZ",
+					"winnerScore": "1",
+					"loserScore": "0"
+				},
+				{
+					"winner": "M",
+					"loser": "Cole",
+					"winnerScore": "1",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Gords",
+					"loser": "Zxv",
+					"winnerScore": "1",
+					"loserScore": "0"
+				},
+				{
+					"winner": "M",
+					"loser": "EVAL",
+					"winnerScore": "1",
+					"loserScore": "0"
+				},
+				{
+					"winner": "M",
+					"loser": "Gords",
+					"winnerScore": "1",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Cole",
+					"loser": "Kait",
+					"winnerScore": "1",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Wvz",
+					"loser": "jinchigo",
+					"winnerScore": "1",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Neo",
+					"loser": "William",
+					"winnerScore": "1",
+					"loserScore": "0"
+				},
+				{
+					"winner": "LNZ",
+					"loser": "Cole",
+					"winnerScore": "1",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Neo",
+					"loser": "Wvz",
+					"winnerScore": "1",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Zxv",
+					"loser": "LNZ",
+					"winnerScore": "1",
+					"loserScore": "0"
+				},
+				{
+					"winner": "EVAL",
+					"loser": "Neo",
+					"winnerScore": "1",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Zxv",
+					"loser": "EVAL",
+					"winnerScore": "1",
+					"loserScore": "0"
+				},
+				{
+					"winner": "Zxv",
+					"loser": "Gords",
+					"winnerScore": "1",
+					"loserScore": "0"
+				},
+				{
+					"winner": "M",
+					"loser": "Zxv",
+					"winnerScore": "1",
+					"loserScore": "0"
+				}
+			],
+			"eventURL": "http://sydneysmash.challonge.com/smashgym1"
+		}
+	]
+}
