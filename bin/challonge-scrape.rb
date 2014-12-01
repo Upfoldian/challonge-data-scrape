@@ -1,4 +1,6 @@
 require './lib/apikey.rb'
+require 'JSON'
+require 'challonge-api'
 
 module ChallongeScrape
 
